@@ -1,0 +1,15 @@
+img {
+    height: 80px;
+    width: 80%;
+    margin: 5%;
+}
+body * {
+    font-family: 'Roboto', arial, sans-serif;
+}
+#input-box > input {
+    box-sizing: border-box;
+    height: 35px;
+}
+#search {
+    width: 35%;
+}

@@ -1,0 +1,1 @@
+an HTML5 page with a simple form to search Digikala's products.
